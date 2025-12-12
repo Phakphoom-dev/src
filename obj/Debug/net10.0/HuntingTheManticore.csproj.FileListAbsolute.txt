@@ -1,0 +1,14 @@
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/bin/Debug/net10.0/HuntingTheManticore
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/bin/Debug/net10.0/HuntingTheManticore.deps.json
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/bin/Debug/net10.0/HuntingTheManticore.runtimeconfig.json
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/bin/Debug/net10.0/HuntingTheManticore.dll
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/bin/Debug/net10.0/HuntingTheManticore.pdb
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.AssemblyInfoInputs.cache
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.AssemblyInfo.cs
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.csproj.CoreCompileInputs.cache
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.dll
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/refint/HuntingTheManticore.dll
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.pdb
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/HuntingTheManticore.genruntimeconfig.cache
+/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/Debug/net10.0/ref/HuntingTheManticore.dll
