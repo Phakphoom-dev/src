@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/HuntingTheManticore.csproj": {}
+    "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/HuntingTheManticore/HuntingTheManticore.csproj": {}
   },
   "projects": {
-    "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/HuntingTheManticore.csproj": {
+    "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/HuntingTheManticore/HuntingTheManticore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/HuntingTheManticore.csproj",
+        "projectUniqueName": "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/HuntingTheManticore/HuntingTheManticore.csproj",
         "projectName": "HuntingTheManticore",
-        "projectPath": "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/HuntingTheManticore.csproj",
+        "projectPath": "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/HuntingTheManticore/HuntingTheManticore.csproj",
         "packagesPath": "/Users/artydev/.nuget/packages/",
-        "outputPath": "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/src/obj/",
+        "outputPath": "/Users/artydev/Documents/code/dotnet/HuntingTheManticore/HuntingTheManticore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artydev/.nuget/NuGet/NuGet.Config"
