@@ -6,8 +6,11 @@ int maximumCityHealth = 15;
 int round = 1;
 int cannonDamage = Helper.CalculateCanonDamage(round);
 
+Console.BackgroundColor = ConsoleColor.Yellow;
 int manticoreDistance = Helper.GetNumberInRange(
     "Player 1, how far away from the city do you want to station the Manticore? ", 1, 100);
+
+Console.ResetColor();
 
 Console.WriteLine("Player 2 it's your turn ");
 
